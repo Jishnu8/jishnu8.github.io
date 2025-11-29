@@ -9,7 +9,7 @@
 
 main:
   - title: "Notes and Publications"
-    url: /publications/
+    url: /publications_and_notes/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -27,7 +27,7 @@ main:
   #   url: /cv/
     
   - title: "CV"
-    url: /cv-json/
+    url: /files/cv.pdf
 
   - title: "Misc"
     url: /misc/
