@@ -20,19 +20,19 @@ Below you can find a brief selection of my expository write-ups and project repo
 ---
 
 ### Reading Notes
-
+<!-- 
 1. Classical Plateau Problem: An Exposition of Douglas and Rado's Solution
 \[*Draft in preparation*\]
 
 2. An Exposition of the Minimax Principle and Birkhoff’s Theorem on Existence of Closed Geodesics
-\[*Draft in preparation*\]
+\[*Draft in preparation*\] -->
 
 ---
 
 ### Previous Interests (Publications)
 
 6. Deep Video Anomaly Detection in Automated Laboratory Settings [\[*DOI*\]](https://doi.org/10.1016/j.eswa.2025.126581)  
-_Ali Dabouei\* , Jishnu Parayil Shibu\* , Vibhu Dalal\* , **Min Xu**, *et al.*_  
+_Ali Dabouei\* , Jishnu Parayil Shibu\* , Vibhu Dalal\* , Min Xu, et al.*_  
 *Expert Systems with Applications, 2025*  
 
 \*Equal contribution  
