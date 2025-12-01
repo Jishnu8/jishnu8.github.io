@@ -13,7 +13,7 @@ Broadly speaking, my interests lie in problems at the interface of analysis and 
 
 - Plateau’s problem, which asks for the existence of an area-minimizing surface spanning a given boundary.
 - Problems in Euclidean harmonic analysis, including the Kakeya conjecture and related questions.
-- Other questions in Geometric Analysis, such as existence of closed geodesics
+- Other questions in Geometric Analysis, including those arising in geometric flows and in the study of geodesics.
 
 Although no longer my focus, I also had a strong interest in machine learning during my Bachelor's, completing an industrial role at a fintech company and two remote research internships.
 
