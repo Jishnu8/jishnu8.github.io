@@ -11,7 +11,7 @@ Below you can find a brief selection of my expository write-ups and project repo
 1. An Exposition of the Area Formula [\[*PDF*\]](/files/area_formula.pdf)   
 *Semester 3 Mid-Term Report*
 
-1. The Coarea Formula for BV Functions [\[*coming soon*\]](/files/coarea_formula_for_BV_functions.pdf)    
+1. The Coarea Formula for BV Functions [\[*PDF*\]](/files/coarea_formula_for_BV_functions.pdf)    
 *Semester 3 Final Report* 
 
 1. Allard’s Regularity Theorem *[Expected: Feb 2026 and May 2026]*    
