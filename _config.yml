@@ -153,16 +153,16 @@ social:
   links: # An array of links to social media profiles
 
 
-# # Analytics
-# analytics:
-#   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-#   google:
-#     tracking_id          :
-
+# Analytics
 analytics:
-  provider: google-gtag
+  provider               : "google-analytics-4" # "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id: G-582Z2H2KS1
+    tracking_id          : G-582Z2H2KS1
+
+# analytics:
+#   provider: google-gtag
+#   google:
+#     tracking_id: G-582Z2H2KS1
 
 
 
