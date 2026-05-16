@@ -21,13 +21,26 @@ Below you can find a brief selection of my expository write-ups and project repo
 2. The Generalized Divergence Theorem for Sobolov Functions and the Co-Area Formula for BV Functions [\[*PDF*\]](/files/coarea_formula_for_BV_functions.pdf)    
     *Master’s project in Geometric Measure Theory — Semester 3 End-Sem Report*   
     *Brief Abstract*: This report provides an exposition of two central results in geometric measure theory: the
-    generalized divergence theorem for Sobolev functions and the co-area formula for functions of bounded variation. The former generalizes the familiar divergence theorem in smooth calculus, while the latter expresses the total variation of a function as an integral of the perimeters of its superlevel sets, generalizing both Fubini’s theorem and the classical co-area formula for Lipschitz functions.  These results are useful and arise naturally in the study of PDEs, variational problems, and the theory of minimal surfaces. 
+    generalized divergence theorem for Sobolev functions and the co-area formula for functions of bounded variation. The former generalizes the familiar divergence theorem in smooth calculus, while the latter expresses the total variation of a function as an integral of the perimeters of its superlevel sets, generalizing both Fubini’s theorem and the classical co-area formula for Lipschitz functions.  These results are useful and arise naturally in the study of PDEs, variational problems, and the theory of minimal surfaces.
 
-3. First Variation Formula for Area of Submanifolds[\[*PDF*\]](/files/Jishnu_MMath_4th_Sem_Midsem_Report.pdf) 
-    *Master’s project in Geometric Measure Theory — Semester 4 Mid-Sem Report*
+3. First Variation Formula for Area of Submanifolds [\[*PDF*\]](/files/Jishnu_MMath_4th_Sem_Midsem_Report.pdf)    
+    *Master’s project in Geometric Measure Theory — Semester 4 Mid-Sem Report*   
+    *Brief Abstract*: This report provides an exposition of a central result in the calculus of variations and the
+theory of minimal surfaces, namely the first variation formula for area of submanifolds.
+This result describes the rate of change of the area of a submanifold under a small
+perturbation and relates it to a natural geometric quantity, the mean curvature vector. To
+arrive at this formula, we must first establish a rigorous notion of area for submanifolds.
+To this end, we first establish via the classical volume formula that the area form on
+a submanifold is equivalent to the n-dimensional Hausdorff measure Finally, we shall derive the first variation formula and explain how it leads naturally to the notion of a minimal surface as a surface with vanishing mean
+curvature.
 
-4.Theory of Varifolds and the Allard Regularity Theorem: An Exposition [\[*PDF*\]](/files/Jishnu_MMath_Endsem_Report.pdf) 
-    *Master’s project in Geometric Measure Theory — Semester 4 End-Sem Report*
+4. Theory of Varifolds and the Allard Regularity Theorem: An Exposition [\[*PDF*\]](files/Jishnu_MMath_Endsem_Report.pdf)    
+    *Master’s project in Geometric Measure Theory — Semester 4 End-Sem Report*   
+    *Brief Abstract*: This report presents an exposition of the theory of rectifiable varifolds and their role in
+geometric measure theory and the study of minimal surfaces. The primary objective is to
+develop enough of the theory to understand the statement and significance of the Allard
+Regularity Theorem, a fundamental regularity result for generalized minimal surfaces. Roughly speaking, it says that sufficiently well-behaved varifolds (which are measure theoretic generalizations of classicial surfaces) at a given point are locally the graph of a C1 function. .
+ 
 
 ---
 
