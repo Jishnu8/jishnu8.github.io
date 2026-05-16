@@ -23,8 +23,11 @@ Below you can find a brief selection of my expository write-ups and project repo
     *Brief Abstract*: This report provides an exposition of two central results in geometric measure theory: the
     generalized divergence theorem for Sobolev functions and the co-area formula for functions of bounded variation. The former generalizes the familiar divergence theorem in smooth calculus, while the latter expresses the total variation of a function as an integral of the perimeters of its superlevel sets, generalizing both Fubini’s theorem and the classical co-area formula for Lipschitz functions.  These results are useful and arise naturally in the study of PDEs, variational problems, and the theory of minimal surfaces. 
 
-3. Allard’s Regularity Theorem *[Expected: Feb 2026 and May 2026]*    
-    *Master’s project in Geometric Measure Theory — Topic planned for semester 4; mid-sem and final reports will be posted when available*
+3. First Variation Formula for Area of Submanifolds[\[*PDF*\]](/files/Jishnu_MMath_4th_Sem_Midsem_Report.pdf) 
+    *Master’s project in Geometric Measure Theory — Semester 4 Mid-Sem Report*
+
+4.Theory of Varifolds and the Allard Regularity Theorem: An Exposition [\[*PDF*\]](/files/Jishnu_MMath_Endsem_Report.pdf) 
+    *Master’s project in Geometric Measure Theory — Semester 4 End-Sem Report*
 
 ---
 
