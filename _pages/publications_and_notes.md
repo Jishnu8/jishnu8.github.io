@@ -34,7 +34,7 @@ To this end, we first establish via the classical volume formula that the area f
 a submanifold is equivalent to the n-dimensional Hausdorff measure Finally, we shall derive the first variation formula and explain how it leads naturally to the notion of a minimal surface as a surface with vanishing mean
 curvature.
 
-4. Theory of Varifolds and the Allard Regularity Theorem: An Exposition [\[*PDF*\]](files/Jishnu_MMath_Endsem_Report.pdf)    
+4. Theory of Varifolds and the Allard Regularity Theorem: An Exposition [\[*PDF*\]](/files/Jishnu_MMath_Endsem_Report.pdf)    
     *Master’s project in Geometric Measure Theory — Semester 4 End-Sem Report*   
     *Brief Abstract*: This report presents an exposition of the theory of rectifiable varifolds and their role in
 geometric measure theory and the study of minimal surfaces. The primary objective is to
